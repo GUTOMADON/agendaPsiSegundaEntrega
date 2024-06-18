@@ -1,0 +1,32 @@
+body {
+    background-color: #E0E9EF;
+    color: #333;
+    font-family: 'Arial', sans-serif;
+}
+
+h1, h2 {
+    color: #3E6D8E;
+    font-family: 'Arial', sans-serif;
+    font-weight: bold;
+}
+
+.psicologo-card {
+    margin-bottom: 20px;
+}
+
+.psicologo-card .card-header {
+    background-color: #3E6D8E;
+    color: #FFF;
+    font-weight: bold;
+}
+
+.btn-apagar {
+    margin-left: 10px;
+}
+
+.container {
+    background-color: #FFF;
+    padding: 20px;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); 
+}
